@@ -16,7 +16,7 @@
 
 > _This project is pretty straightforward. I have recoded printf._
 
-For more detailed information, [**subject**](https://github.com/LineGM/ft_printf/blob/main/ft_printf_en.pdf).
+For more detailed information: [**subject**](https://github.com/LineGM/ft_printf/blob/main/ft_printf_en.pdf).
 
 
 ## Usage
