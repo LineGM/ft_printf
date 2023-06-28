@@ -13,7 +13,7 @@
 
 ## About the project
 
-> _This project is pretty straightforward. I have recoded printf._
+> _This project is pretty straightforward. I have recoded a printf._
 
 For more detailed information: [**subject**](https://github.com/LineGM/ft_printf/blob/main/ft_printf_en.pdf).
 
